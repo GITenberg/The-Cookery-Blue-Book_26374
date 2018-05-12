@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31956'
     url: http://www.gutenberg.org/2009/agents/31956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26374#The-Cookery-Blue-Book
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-08-20'
 gutenberg_type: Text
